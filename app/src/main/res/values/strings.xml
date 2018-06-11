@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Ramat Eshkol Nshei</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ramat Eshkol Nshei</string>
+    <string name="nav_header_subtitle">Categories</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_signout">Sign out</string>
+    <string name="browse_categories">Browse Categories</string>
+    <string name="no_entries">No entries found</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_rentals">Rentals/Real Estate</string>
+    <string name="nav_sales">Sales</string>
+    <string name="mikvaos">Mikvaos</string>
+    <string name="minyanim">Minyanim</string>
+    <string name="general_header">General</string>
+    <string name="nav_general">General</string>
+    <string name="no_entries_found">No entries found</string>
+    <string name="home_text_1">Serving the neighborhoods of Ramat Eshkol, Givat Hamivtar, Sanhedria and Sanhedria Murchevet - over 3600 subscribers!</string>
+    <string name="home_text_2">You MAY NOT post ANY free posts on behalf of someone who does not live in the above neighborhoods.</string>
+    <string name="home_text_3">** No part of any Ramat Eshkol Nshei Email may be duplicated in any form without permission from the group\'s owner.  Information and email addresses contained in any e-mails from Ramat Eshkol Nshei may not be used for commercial use.  Email addresses and phone numbers posted in the Ramat Eshkol Nshei emails may only be contacted for the purpose of which the contact information was posted. \n\n** To post or subscribe to this group, send email to ramateshkolnshei@gmail.com.  To view all previous emails, login in to your Google Groups account. Emails are listed under “Discussions.” \n\nPlease check the text of your ad carefully - separate emails/updates will not be sent out with corrections! \n\nThe Ramat Eshkol Nshei Email does not take responsibility for the kashrus, honesty or reliability of any of the advertisers in this email.</string>
+    <string name="notice_board">Notice Board</string>
+    <string name="home_text_4">You MAY NOT post ANY free posts if you are not a resident of Ramat Eshkol, Givat Hamivtar, Sanhedria, or Sanhedria Murchevet.</string>
+    <string name="home_text_5">*** Tell our advertisers you saw their ad here! ***</string>
+    <string name="home_text_6">Notice regarding free ads in "For Sale" and "Wanted" sections:\n1) You may only post two ads in each of these sections per week. Each ad can be no longer than 70 words/numbers.\n2) If you are not moving, you may only post your ad(s) two weeks in a row and after that, once a month.</string>
+    <string name="pi1">*** Please check the text of your ad carefully - separate emails/updates will not be sent out with corrections! ***</string>
+    <string name="pi2">(Over 3600 subscribers!)</string>
+    <string name="pi3">Email ad to ramateshkolnshei@gmail.com To be sure that your ad is posted in time, please have the ad (and payment if applicable) in by the times listed below.\n\n<b>Text Ads</b> - The email is sent weekly on Wednesday except when notification is sent in advance. Deadline Monday 11pm\n\n<b>Graphic Ads</b> - The email is sent weekly on Thursday except when notification is sent in advance. Deadline Wednesday 10am.</string>
+    <string name="pi4">Formatting Requirements for all Text Ads</string>
+    <string name="pi5">Text ads are limited to 70 words per ad. \nPlease do not use line breaks (the entire ad should be one line). \nPlease do not type words that are ALL in caps (they will be edited.) \nIf your ad has a title/description, please include that at the beginning of the ad in the body of your e-mail and NOT in the subject line of the e-mail. \nDo not send attachments. \nLinks to online documents are allowed for non-business For Sale listings only. \nNo links in the title of the ad. \n\nPlease include the location if it will be helpful to those interested in your post and also include other relevant details. For example, if you are renting your apartment, it is helpful to know what street it is on and what dates it is available. If you are selling a used item, it is helpful to post your general location. This makes it easier for people to know whether your post is relevant to them or not without having to contact you.</string>
+    <string name="pi6">Price List for Text Only Ads</string>
+    <string name="pi7">You <b>MAY NOT</b> post <b>ANY</b> free ads if you are <b>not</b> a resident of Ramat Eshkol, Sanhedria, Sanhedria Murchevet or Givat Hamivtar. You <b>MAY NOT</b> post <b>ANY</b> free ads on behalf of someone who does not live in the above neighborhoods. \n\nFree ads must be resubmitted each week. (Excluding gemachim) \n\nRegarding <b>free</b> ads in <b>\'For Sale\'</b> and <b>\'Wanted\'</b> sections: \n1) You may only post two ads in each of these sections per week. Each ad can be no longer than 70 words/numbers. \n2) If you are not moving, you may only post your ad(s) two weeks in a row and after that, once a month. \n\nPaid ads will be posted as often as requested (ie. One time only, weekly, biweekly, monthly, by request, etc.) \nYou may pay for as many weeks as you\'d like in one payment. \n\nYou can request for your PAID ad to be posted first in its section. 30 NIS for ads that are regularly 15 NIS. 50 NIS for 25 NIS ads. 60 NIS for 30 NIS ads.</string>
+    <string name="nav_gemach">Gemachim</string>
+    <string name="payment_info_text">Click here for details on how to submit an ad.</string>
+    <string name="nav_mazal_tov">Mazal Tov</string>
+    <string name="select_category">Select category:</string>
+    <string name="nav_hashavas_aveidah">Hashavas Aveidah</string>
+    <string name="nav_shiurim">Shiurim</string>
+    <string name="nav_events">Events</string>
+    <string name="nav_classes">Classes/Workshops/Groups</string>
+    <string name="nav_health_therapy">Health/Therapy</string>
+    <string name="nav_clothing_accessories">Clothing/Accessories</string>
+    <string name="nav_wigs_hair_cosmetics">Wigs/Hair/Cosmetics</string>
+    <string name="nav_food_catering">Food/Catering</string>
+    <string name="nav_services">Services</string>
+    <string name="nav_babysitting_gan_chugim">Babysitting/Gan/Chugim</string>
+    <string name="nav_job_opportunities">Job Opportunities</string>
+    <string name="gemach_list_text">View the complete gemach list here</string>
+    <string name="agents_text">**Agents may not use information from this email without permission from ramateshkolnshei@gmail.com. Thank you.</string>
+    <string-array name="rentals_array">
+        <item>Long-Term Available</item>
+        <item>Vacation Rentals</item>
+        <item>Short-Term Available</item>
+        <item>Real Estate For Sale</item>
+        <item>Seeking Long-Term</item>
+        <item>Seeking Short-Term</item>
+    </string-array>
+    <string-array name="sales_array">
+        <item>Wanted</item>
+        <item>Giving Away</item>
+        <item>For Sale</item>
+    </string-array>
+    <string-array name="classes_array">
+        <item>Classes</item>
+        <item>Workshops</item>
+        <item>Groups</item>
+    </string-array>
+    <string-array name="general_array">
+        <item>Mikvaos</item>
+        <item>Minyanim</item>
+        <item>Banks</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Enter</string>
+    <string name="action_sign_in_short">Enter</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="login_note">Note: Your email address must be pre-approved by the administrator.\nThe administrator\'s contact information is available by word-of-mouth only.</string>
+    <string name="authorization_text">This one-time authorization is to ensure that you are a member of the Ramat Eshkol Nshei</string>
+    <string name="email_validation">Please wait for email validation...</string>
+    <string name="email_not_found">Your email address was not found in the list of pre-approved accounts with the Ramat Eshkol Nshei.\n\nPlease contact the administrator for authorization.\n\nIf this is a mistake, return to the login screen and enter the correct email account.</string>
+    <string name="login_button">Login</string>
+    <string name="word_of_mouth">Note: The administrator\'s contact information is available by word-of-mouth only.</string>
+    <string name="new_gemachim_listed">Only new gemachim are listed below</string>
+    <string name="nav_photography">Photography</string>
+    <string name="nav_announcements">Announcements</string>
+    <string name="nav_wanted">Wanted</string>
+    <string name="nav_giving_away">Giving Away</string>
+    <string name="nav_for_sale">For Sale</string>
+</resources>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/nav_home" />
+
+    </group>
+
+    <item android:title="Categories">
+        <menu>
+            <item
+                android:id="@+id/nav_announcements"
+                android:icon="@drawable/ic_comment_black_24dp"
+                android:title="@string/nav_announcements"/>
+            <item
+                android:id="@+id/nav_babysitting"
+                android:icon="@drawable/ic_child_care_black_24dp"
+                android:title="@string/nav_babysitting_gan_chugim"/>
+            <item
+                android:id="@+id/nav_classes"
+                android:icon="@drawable/ic_school_black_24dp"
+                android:title="@string/nav_classes"/>
+            <item
+                android:id="@+id/nav_clothing"
+                android:icon="@drawable/ic_watch_black_24dp"
+                android:title="@string/nav_clothing_accessories"/>
+            <item
+                android:id="@+id/nav_events"
+                android:icon="@drawable/ic_local_activity_black_24dp"
+                android:title="@string/nav_events"/>
+            <item
+                android:id="@+id/nav_food"
+                android:icon="@drawable/ic_local_dining_black_24dp"
+                android:title="@string/nav_food_catering"/>
+            <item
+                android:id="@+id/nav_forsale"
+                android:icon="@drawable/ic_local_mall_black_24dp"
+                android:title="@string/nav_for_sale" />
+            <item
+                android:id="@+id/nav_gemach"
+                android:icon="@drawable/ic_group_black_24dp"
+                android:title="@string/nav_gemach" />
+            <item
+                android:id="@+id/nav_general"
+                android:icon="@drawable/ic_domain_black_24dp"
+                android:title="@string/nav_general" />
+            <item
+                android:id="@+id/nav_givingaway"
+                android:icon="@drawable/ic_pan_tool_black_24dp"
+                android:title="@string/nav_giving_away" />
+            <item
+                android:id="@+id/nav_hashavas_avediah"
+                android:icon="@drawable/ic_undo_black_24dp"
+                android:title="@string/nav_hashavas_aveidah"/>
+            <item
+                android:id="@+id/nav_health"
+                android:icon="@drawable/ic_fitness_center_black_24dp"
+                android:title="@string/nav_health_therapy"/>
+            <item
+                android:id="@+id/nav_jobs"
+                android:icon="@drawable/ic_business_center_black_24dp"
+                android:title="@string/nav_job_opportunities"/>
+            <item
+                android:id="@+id/nav_mazal_tov"
+                android:icon="@drawable/ic_cake_black_24dp"
+                android:title="@string/nav_mazal_tov" />
+            <item
+                android:id="@+id/nav_photography"
+                android:icon="@drawable/ic_camera_alt_black_24dp"
+                android:title="@string/nav_photography" />
+            <item
+                android:id="@+id/nav_rentals"
+                android:icon="@drawable/ic_hotel_black_24dp"
+                android:title="@string/nav_rentals" />
+            <item
+                android:id="@+id/nav_sales"
+                android:icon="@drawable/ic_attach_money_black_24dp"
+                android:title="@string/nav_sales" />
+            <item
+                android:id="@+id/nav_services"
+                android:icon="@drawable/ic_room_service_black_24dp"
+                android:title="@string/nav_services"/>
+            <item
+                android:id="@+id/nav_shiurim"
+                android:icon="@drawable/ic_chat_bubble_outline_black_24dp"
+                android:title="@string/nav_shiurim"/>
+            <item
+                android:id="@+id/nav_wanted"
+                android:icon="@drawable/ic_toys_black_24dp"
+                android:title="@string/nav_wanted" />
+            <item
+                android:id="@+id/nav_cosmetics"
+                android:icon="@drawable/ic_face_black_24dp"
+                android:title="@string/nav_wigs_hair_cosmetics"/>
+        </menu>
+    </item>
+
+    <item android:title="Contact">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Email" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1069369449221",
+    "firebase_url": "https://ramateshkolnshei-199310.firebaseio.com",
+    "project_id": "ramateshkolnshei-199310",
+    "storage_bucket": "ramateshkolnshei-199310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069369449221:android:e70f791638fad9c3",
+        "android_client_info": {
+          "package_name": "com.cgstudios.ramateshkolnshei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069369449221-jinhp1m3pih2dt0ufu61jvj2afnn4nnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cgstudios.ramateshkolnshei",
+            "certificate_hash": "52af15b739aaf47160e9ccad656b8fb078d96441"
+          }
+        },
+        {
+          "client_id": "1069369449221-j1pqn16tteik1a9pc36hmfptppvd3p5e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1069369449221-108fl8qg0h2g2hik9gmpfvsvpem0l0v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cgstudios.ramateshkolnshei",
+            "certificate_hash": "f7e7f791f8d144ceafa903dd88564c975933912e"
+          }
+        },
+        {
+          "client_id": "1069369449221-pam93dggel9q750q9svhgduammenrfib.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1069369449221-j1pqn16tteik1a9pc36hmfptppvd3p5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB98QkWIrbvZ0qwThol6RpNkWsnEn6VAZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069369449221-j1pqn16tteik1a9pc36hmfptppvd3p5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
